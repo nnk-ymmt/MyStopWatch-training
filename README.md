@@ -1,0 +1,2 @@
+# MyStopWatch-training
+ドットインストール　MyStopWatch
